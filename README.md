@@ -6,8 +6,12 @@ Discover the many different ways to collect, analyze, and distribute data gather
 
 ## Quick Start Guide for macOS
 
-Install Xcode command line tools:
+Install **Xcode** command line tools:
 ```bash
 xcode-select --install
 ```
 
+Install **Miniconda**, a small bootstrap version of [Anaconda](https://anaconda.com):
+```bash
+bash Miniconda3-latest-MacOSX-x86_64.sh
+```
