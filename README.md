@@ -1,1 +1,1 @@
-<h1 className="mt-5 text-muted text-center">Utilization of <b className="text-dark">Data Analysis</b> and <b className="text-dark">Visualization</b> Tools</h1>
+<h1 style="color: #6a737d">Utilization of <b>Data Analysis</b> and <b>Visualization</b> Tools</h1>
