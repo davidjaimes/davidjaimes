@@ -1,4 +1,4 @@
-![logo](https://www.sandiego.gov/sites/default/files/cosd-logo-primary-full-color-300ppi.png)
+[logo](https://www.sandiego.gov/sites/default/files/cosd-logo-primary-full-color-300ppi.png)
 
 # Utilization of Data Analysis and Visualization Tools
 
@@ -16,7 +16,12 @@ Install **Miniconda**, a small bootstrap version of [Anaconda](https://anaconda.
 bash Miniconda3-latest-MacOSX-x86_64.sh
 ```
 
-Install the most popular Python libraries:
+Install the most popular **Python** libraries:
 ```bash
 conda install numpy pandas matplotlib notebook
+```
+
+Start coding with a **Jupyter** web session:
+```bash
+jupyter notebook
 ```
