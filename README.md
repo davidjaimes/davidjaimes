@@ -1,3 +1,5 @@
+![logo](cosd-logo-primary-grayscale-300ppi.jpg)
+
 # Utilization of Data Analysis and Visualization Tools
 
 ```python
