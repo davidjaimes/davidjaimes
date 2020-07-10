@@ -15,3 +15,8 @@ Install **Miniconda**, a small bootstrap version of [Anaconda](https://anaconda.
 ```bash
 bash Miniconda3-latest-MacOSX-x86_64.sh
 ```
+
+Install the most popular Python libraries:
+```bash
+conda install numpy pandas matplotlib notebook
+```
