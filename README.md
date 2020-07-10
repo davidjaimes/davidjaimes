@@ -1,4 +1,4 @@
-![logo](davidjaimes/cosd-logo-primary-grayscale-300ppi.jpg)
+![logo](cosd-logo-primary-grayscale-300ppi.jpg)
 
 # Utilization of Data Analysis and Visualization Tools
 
