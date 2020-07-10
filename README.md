@@ -1,4 +1,4 @@
-![logo](https://www.sandiego.gov/sites/default/files/cosd-logo-primary-grayscale-300ppi.jpg)
+![logo](https://www.sandiego.gov/sites/default/files/cosd-logo-primary-blue-72ppi.png)
 
 # Utilization of Data Analysis and Visualization Tools
 
