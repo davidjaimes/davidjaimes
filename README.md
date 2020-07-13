@@ -1,4 +1,4 @@
-![ml](mount-laguna.jpg)
+![ml](https://github.com/davidjaimes/mount-laguna.jpg)
 
 # Utilization of Data Analysis and Visualization Tools
 
