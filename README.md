@@ -6,4 +6,4 @@ Discover the many different ways to collect, analyze, and distribute data gather
 
 **Location:** Mount Laguna, California
 
-**Elevation:** 6,000 feet
+**Elevation:** 6,000 feet (1,830 meters)
